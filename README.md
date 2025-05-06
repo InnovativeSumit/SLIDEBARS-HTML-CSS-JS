@@ -2,8 +2,8 @@
 
 A **modern and interactive sidebar** built using **HTML**, **CSS**, and **JavaScript**. This sidebar can be easily integrated into any website or web application to provide a sleek and responsive navigation experience. Perfect for learning how to build interactive UI elements with a smooth user interface.
 
----
-### 📸 Screenshots
+
+## 📸 Screenshots
 
 Here's a preview of the sidebar:
 
@@ -14,13 +14,13 @@ Here's a preview of the sidebar:
   </tr>
 </table>
 
-### 🚀 Live Demo
+## 🚀 Live Demo
 
 🔗  Try it live now:- https://innovativesumit.github.io/SLIDEBARS-HTML-CSS-JS/
 
----
 
-### 🧩 Key Features
+
+## 🧩 Key Features
 
 ### ✨ **Interactive Elements**
 - **Slide-in Effect**: Smooth animation when the sidebar slides in and out of view.
@@ -38,9 +38,9 @@ Here's a preview of the sidebar:
 - **Smooth Animations**: JavaScript-driven animations ensure the sidebar slides in and out seamlessly.
 - **Responsive Control**: The sidebar adjusts based on screen size and behaves accordingly for mobile and desktop views.
 
----
 
-### 🎯 What Makes It Special?
+
+## 🎯 What Makes It Special?
 
 - **Smooth User Experience**: Intuitive slide-in and slide-out animations for a dynamic feel.
 - **Fully Customizable**: Easy to integrate into your own projects and personalize the look and feel.
@@ -48,8 +48,7 @@ Here's a preview of the sidebar:
 - **Beginner-Friendly Code**: Clean, well-commented code that's easy to understand and modify.
 - **No External Libraries**: Built with pure HTML, CSS, and vanilla JavaScript—no dependencies.
 
----
 
-### 📜 License
+## 📜 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
