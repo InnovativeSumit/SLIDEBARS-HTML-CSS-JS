@@ -2,6 +2,8 @@
 
 A **modern and interactive sidebar** built using **HTML**, **CSS**, and **JavaScript**. This sidebar can be easily integrated into any website or web application to provide a sleek and responsive navigation experience. Perfect for learning how to build interactive UI elements with a smooth user interface.
 
+![MIT License Badge](https://img.shields.io/badge/License-MIT-green)
+
 ---
 ## 📸 Screenshots
 
@@ -47,3 +49,9 @@ Here’s a preview of the sidebar:
 - **Responsive**: Works flawlessly on both small and large screens.
 - **Beginner-Friendly Code**: Clean, well-commented code that’s easy to understand and modify.
 - **No External Libraries**: Built with pure HTML, CSS, and vanilla JavaScript—no dependencies.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
