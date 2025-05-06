@@ -2,12 +2,10 @@
 
 A **modern and interactive sidebar** built using **HTML**, **CSS**, and **JavaScript**. This sidebar can be easily integrated into any website or web application to provide a sleek and responsive navigation experience. Perfect for learning how to build interactive UI elements with a smooth user interface.
 
-![MIT License Badge](https://img.shields.io/badge/License-MIT-green)
-
 ---
 ## 📸 Screenshots
 
-Here’s a preview of the sidebar:
+Here's a preview of the sidebar:
 
 <table>
   <tr>
@@ -33,7 +31,7 @@ Here’s a preview of the sidebar:
 ### 🎨 **UI and Design**
 - **Sleek & Modern**: Minimalist design with smooth animations for a pleasant user experience.
 - **CSS Transitions**: Fade and slide transitions for a polished, dynamic feel.
-- **Customizable**: Easily change the background color, width, or content within the sidebar to match your project’s design.
+- **Customizable**: Easily change the background color, width, or content within the sidebar to match your project's design.
 
 ### 💻 **JavaScript-Based Interactions**
 - **Toggle Functionality**: Toggle the sidebar with a simple button click or swipe gesture (on mobile).
@@ -47,11 +45,11 @@ Here’s a preview of the sidebar:
 - **Smooth User Experience**: Intuitive slide-in and slide-out animations for a dynamic feel.
 - **Fully Customizable**: Easy to integrate into your own projects and personalize the look and feel.
 - **Responsive**: Works flawlessly on both small and large screens.
-- **Beginner-Friendly Code**: Clean, well-commented code that’s easy to understand and modify.
+- **Beginner-Friendly Code**: Clean, well-commented code that's easy to understand and modify.
 - **No External Libraries**: Built with pure HTML, CSS, and vanilla JavaScript—no dependencies.
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
