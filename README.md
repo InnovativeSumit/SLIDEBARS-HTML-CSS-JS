@@ -10,7 +10,7 @@ Here’s a preview of the sidebar:
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f7c97a9b-0172-4159-a071-17d3621000e7" alt="Sidebar Screenshot 1" width="90" height="850" /></td>
-    <td><img src="https://github.com/user-attachments/assets/e309a2c6-14a1-436f-ac31-9c0e8c45c960" alt="Sidebar Screenshot 2" width="250" height="850" /></td>
+    <td><img src="https://github.com/user-attachments/assets/e309a2c6-14a1-436f-ac31-9c0e8c45c960" alt="Sidebar Screenshot 2" width="250" height="950" /></td>
   </tr>
 </table>
 
