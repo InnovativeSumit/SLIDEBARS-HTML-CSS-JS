@@ -16,7 +16,7 @@ Here's a preview of the sidebar:
 
 ## 🚀 Live Demo
 
-🔗  Try it live now:- https://innovativesumit.github.io/SLIDEBARS-HTML-CSS-JS/
+🔗  Try it live now:- [SLIDEBAR-1](https://innovativesumit.github.io/SLIDEBARS-HTML-CSS-JS/)
 
 
 
